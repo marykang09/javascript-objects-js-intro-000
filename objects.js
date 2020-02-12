@@ -1,5 +1,6 @@
 var playlist = {artists: "songs"}
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist.MyBloodyValentine = 'Slowdive';
+  playlist['My Bloody Valentine'] = 'Slowdive'
+  return playlist;
 }
