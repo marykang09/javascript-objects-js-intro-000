@@ -1,4 +1,4 @@
-var playlist = {artists: songss}
+var playlist = {artists: songs}
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist.artists = 'Slowdive';
